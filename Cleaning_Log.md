@@ -1,12 +1,8 @@
-
-## `Cleaning_Log.md`
-
-```markdown
 # Data Cleaning Log — Bank Customer Churn Analysis
 
 ## Dataset Overview
 
-- Source: Bank customer churn dataset provided for the GrowAI internship assignment
+- Source: Bank customer churn dataset provided for the GROWAI internship project
 - Initial records: **500**
 - Initial columns: **13**
 - Duplicate records: **0**

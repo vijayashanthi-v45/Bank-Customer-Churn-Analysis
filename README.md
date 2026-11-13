@@ -1,4 +1,4 @@
-# **Project Type:** Internship Project – GrowAI
+# **Project Type:** Internship Project – GROWAI
 # Bank Customer Churn Analysis — Excel
 
 ## Project Overview
@@ -7,7 +7,7 @@ Which bank customers were more likely to leave, and which customer groups should
 
 This project analyzes **500 customer records** to compare churn across customer characteristics and identify patterns that could inform further retention analysis.
 
-Completed as part of a **GrowAI Data Analyst internship**, the project uses Excel formulas and PivotTables to answer 13 questions provided in the assignment, followed by 3 additional analyses.
+Completed as part of a **GROWAI Data Analyst internship**, the project uses Excel formulas and PivotTables to answer 13 questions provided in the assignment, followed by 3 additional analyses.
 
 ## Business Problem
 
@@ -25,7 +25,7 @@ The analysis focused on geography, age, product count, activity status, credit s
 
 ## My Role
 
-As a GrowAI Data Analyst intern, I cleaned and analyzed the customer data in Excel, answered the assigned questions, and added 3 further analyses to compare churn across customer groups.
+As a GROWAI Data Analyst intern, I cleaned and analyzed the customer data in Excel, answered the assigned questions, and added 3 further analyses to compare churn across customer groups.
 
 ## Tools & Technologies
 
